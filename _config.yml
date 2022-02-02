@@ -1,3 +1,2 @@
-theme: jekyll-theme-cayman
-title: Welcome to the Octocat’s homepage!
-description: Awake
+name: "flexdashboard-example"
+output_dir: docs
